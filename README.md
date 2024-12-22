@@ -1,2 +1,2 @@
 # Warships
-This is a HCMIU-OOP final project by ligma
+This is a HCMIU-OOP final project by la squadra
